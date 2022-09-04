@@ -1,11 +1,11 @@
 Here you'll see some random projects I have worked on for fun as well as as some teaching materials for my clients and students.
 
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<div class="tenor-gif-embed" data-postid="24916992" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/programming-gif-24916992">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
