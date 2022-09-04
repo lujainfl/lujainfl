@@ -4,16 +4,22 @@ Here you'll see some random projects I have worked on for fun as well as as some
 <p align="center">
 <a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" alt="apoorvtyagi" height="100" width="160" /></a>&nbsp;
 
-![](https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
+<h1 align="center">
+  <img src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="header" height="300" width="500" />
+</h1>
+
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🤓 I'm a [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech ✨
+### Get to Know Me ✨:
+- 🤓 I'm a [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I'm into all things Data
 - 📝 I like to write for fun & to express myself (stay tuned for some writing content)
 - 📖 I have bought 6 books last year. I have finished none...
-- 💬 Talk to me about all things data vizz
-- ⚡ Fun fact: I ride 🐎
+- 👩‍🎓 I am a bootcamp graduate [(Go GA!)](https://generalassemb.ly)
+- 📊 Talk to me about all things data vizz
+- 💬 Reach  me on Linkedin
+- 🔥 I ride 🐎
 - 👩‍💻 Tech I work on :
 
 <p align="center">
@@ -45,20 +51,45 @@ Here you'll see some random projects I have worked on for fun as well as as some
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Tech Courses I Have Taught:
-<!-- BLOG-POST-LIST:START -->
-- [Data Analytics](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [Python Programming](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [Data Science Immersive](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [Stay Tuned](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
 
-<!-- BLOG-POST-LIST:END -->
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://hub.misk.org.sa/programs/skills/data-science/">
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/48/Misk_Foundation_Logo.png" width="60" />
+        <br />
+        Data Science Immersive
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://generalassemb.ly/education/data-analytics">
+        <img src="https://seeklogo.com/images/G/general-assembly-logo-D5C634F07A-seeklogo.com.png" width="60" />
+        <br />
+        Data Analytics
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://generalassemb.ly/education/python-programming">
+        <img src="https://seeklogo.com/images/G/general-assembly-logo-D5C634F07A-seeklogo.com.png" width="60" />
+        <br />
+        Python Programming
+      </a>
+    </td>
+     <td align="center" width="200">
+      <a href="https://astrolabs.com/course/data-science-machine-learning-bootcamp-dubai/">
+        <img src="https://jobs.astrolabs.com/wp-content/uploads/2018/10/logo-transparent.png" width="60" />
+        <br />
+        STAY TUNED
+      </a>
+    </td>
+</table>
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Fun Fact:
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Fun Fact of The Day:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 ---
-__Credits:___
+__Credits:__
 You like this readme? Check out the above style and much more awesome github readmes [here.](https://zzetao.github.io/awesome-github-profile/)
 
