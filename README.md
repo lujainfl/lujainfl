@@ -2,7 +2,7 @@ Here you'll see some random projects I have worked on for fun as well as as some
 
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" alt="apoorvtyagi" height="80" width="120" /></a>&nbsp;
+<a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" alt="apoorvtyagi" height="100" width="160" /></a>&nbsp;
 
 ![](https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
 </p>
@@ -10,25 +10,25 @@ Here you'll see some random projects I have worked on for fun as well as as some
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Chemist turned Tech girl and currently workin in Ed Tech 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
+- 📝 I like to write for fun & to express myself (stay tuned for some writing content)
+- 📝 I edit technical articles
+- 📖 I have bought 6 books last year. I have finished none...
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: I ride 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="55" height="55"/> 
-      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="75" height="55"/>
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="85" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
-      <img src="https://logos-world.net/wp-content/uploads/2021/02/Zoom-Logo.png" alt="zoom" width="75" height="55"/>
-      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="55" height="55"/>
+      <img src="https://logos-world.net/wp-content/uploads/2021/02/Zoom-Logo.png" alt="zoom" width="85" height="55"/>
+      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="65" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerbi" width="55" height="55"/>
+      <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerbi" width="65" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/267px-Matlab_Logo.png" alt="matlab" width="55" height="55"/>
       
 </p>
@@ -61,6 +61,6 @@ Here you'll see some random projects I have worked on for fun as well as as some
 
 ---
 
-You like this readme? Check out the above style and much more awesome github readmes [here](https://zzetao.github.io/awesome-github-profile/)
-Credit to 
+You like this readme? Check out the above style and much more awesome github readmes [here.](https://zzetao.github.io/awesome-github-profile/) Credit to the awesome 
+ 
 
