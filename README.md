@@ -8,15 +8,15 @@ Here you'll see some random projects I have worked on for fun as well as as some
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Chemist turned Tech girl and currently workin in Ed Tech 
+- 🏦 I'm a Chemist turned Tech girl and currently workin in Ed Tech ✨
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I like to write for fun & to express myself (stay tuned for some writing content)
-- 📝 I edit technical articles
+- 📝 I edit technical articles. View here.
 - 📖 I have bought 6 books last year. I have finished none...
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: I ride 
-- 🧑‍💻 Tech I work on :
+- 👩‍💻 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
