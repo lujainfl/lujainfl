@@ -1,23 +1,25 @@
 Here you'll see some random projects I have worked on for fun as well as as some teaching materials for my clients and students.
 
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lujainfl)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lujainfelemban)
 
 ### Get to Know Me ✨:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" align="right" alt="Github" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" />
 
-- 🤓 I'm a [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech
+- 🤓 [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I'm into all things Data
-- 📝 I like to write for fun & to express myself (stay tuned)
-- 📖 I have bought 6 books last year. I have finished none...
-- 👩‍🎓 I am a bootcamp graduate [(Go GA!)](https://generalassemb.ly)
+- 💻 Into all things Data
+- 📝 Likes to write for fun & to express myself (stay tuned)
+- 📖 Bought 6 books last year. Finished none...
+- 👩‍🎓 Bootcamp graduate [(Go GA!)](https://generalassemb.ly)
 - 📊 Talk to me about all things data vizz
-- 💬 Reach  me on [Linkedin](https://www.linkedin.com/in/lujainfelemban/)
-- 🔥 I ride 🐎
-- 👩‍💻 Tech I work on :
+- 💬 Reachable & Friendly on [Linkedin](https://www.linkedin.com/in/lujainfelemban/)
+- 🔥 Rides 🐎
+- 👩‍💻 Tech Stack :
 
-<p align="left">
+<p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="55" height="55"/> 
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="85" height="55"/>
