@@ -8,14 +8,12 @@ Here you'll see some random projects I have worked on for fun as well as as some
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Chemist turned Tech girl and currently workin in Ed Tech ✨
+- 🤓 I'm a [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech ✨
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I like to write for fun & to express myself (stay tuned for some writing content)
-- 📝 I edit technical articles. View here.
 - 📖 I have bought 6 books last year. I have finished none...
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: I ride 
+- 💬 Talk to me about all things data vizz
+- ⚡ Fun fact: I ride 🐎
 - 👩‍💻 Tech I work on :
 
 <p align="center">
@@ -46,11 +44,12 @@ Here you'll see some random projects I have worked on for fun as well as as some
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Favorite Blogposts Articles:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Tech Courses I Have Taught:
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
+- [Data Analytics](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
+- [Python Programming](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
+- [Data Science Immersive](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
+- [Stay Tuned](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -60,7 +59,6 @@ Here you'll see some random projects I have worked on for fun as well as as some
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 ---
-
-You like this readme? Check out the above style and much more awesome github readmes [here.](https://zzetao.github.io/awesome-github-profile/) Credit to the awesome 
- 
+__Credits:___
+You like this readme? Check out the above style and much more awesome github readmes [here.](https://zzetao.github.io/awesome-github-profile/)
 
