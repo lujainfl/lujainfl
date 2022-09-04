@@ -2,7 +2,7 @@ Here you'll see some random projects I have worked on for fun as well as as some
 
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" alt="apoorvtyagi" height="30" width="75" /></a>&nbsp;
+<a href="https://linkedin.com/in/lujainfelemban" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" alt="apoorvtyagi" height="50" width="100" /></a>&nbsp;
 
 ![](https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
 </p>
