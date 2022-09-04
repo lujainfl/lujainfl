@@ -2,16 +2,14 @@ Here you'll see some random projects I have worked on for fun as well as as some
 
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<h1 align="center">
-  <img src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" alt="header" height="300" width="500" />
-</h1>
-
-
 ### Get to Know Me ✨:
+<!-- Any image aligned to the right. Beware the width -->
+<img width="45%" align="right" alt="Github" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" />
+
 - 🤓 I'm a [Chemist](https://www.ellenmatsonlab.com/members/alumni) turned Tech girl and currently workin in Ed Tech
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I'm into all things Data
-- 📝 I like to write for fun & to express myself (stay tuned for some writing content)
+- 📝 I like to write for fun & to express myself (stay tuned)
 - 📖 I have bought 6 books last year. I have finished none...
 - 👩‍🎓 I am a bootcamp graduate [(Go GA!)](https://generalassemb.ly)
 - 📊 Talk to me about all things data vizz
@@ -19,7 +17,7 @@ Here you'll see some random projects I have worked on for fun as well as as some
 - 🔥 I ride 🐎
 - 👩‍💻 Tech I work on :
 
-<p align="center">
+<p align="left">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="55" height="55"/> 
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="tableau" width="85" height="55"/>
@@ -81,11 +79,6 @@ Here you'll see some random projects I have worked on for fun as well as as some
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lujainfl&layout=compact&theme=merko&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Fun Fact of The Day:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
-
----
 __Credits:__
 You like this readme? Check out the above style and much more awesome github readmes [here.](https://zzetao.github.io/awesome-github-profile/)
 
