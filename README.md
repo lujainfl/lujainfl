@@ -3,6 +3,7 @@ Here you'll see some random projects I have worked on for fun as well as as some
 # Welcome to my Github Page!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lujainfl)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lujainfelemban)
+![ProfileViews](https://gpvc.arturio.dev/lujainfl)
 
 ### Get to Know Me ✨:
 <!-- Any image aligned to the right. Beware the width -->
